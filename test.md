@@ -51,7 +51,7 @@ For a full list of the entities that are available in the `/whisk.system/cloudan
 The `includeDoc` parameter is no longer supported for use with `/whisk.system/cloudant/changes` feed. If you created triggers that use this parameter, you must re-create them without the `includeDoc` parameter.
 {: deprecated}
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe src="https://platform.twitter.com/widgets/tweet_button.html" style="border: 0; width:130px; height:20px;"></iframe>
 
 
 ## Binding the `/whisk.system/cloudant` package to your {{site.data.keyword.cloudant_short_notm}} database.
