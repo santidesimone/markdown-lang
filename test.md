@@ -51,6 +51,9 @@ For a full list of the entities that are available in the `/whisk.system/cloudan
 The `includeDoc` parameter is no longer supported for use with `/whisk.system/cloudant/changes` feed. If you created triggers that use this parameter, you must re-create them without the `includeDoc` parameter.
 {: deprecated}
 
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
+
 ## Binding the `/whisk.system/cloudant` package to your {{site.data.keyword.cloudant_short_notm}} database.
 If you're using {{site.data.keyword.openwhisk}} from the {{site.data.keyword.cloud_notm}}, you can use the {{site.data.keyword.openwhisk}} CLI plug-in to bind a service to an action or package. If you do not bind your service, you must pass your credentials each time you use the action or package.
 {: #cloudant_db}
